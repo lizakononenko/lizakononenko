@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Elizaveta
 
-<!--
-**lizakononenko/lizakononenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student of Applied Mathematics and Physics interested in scientific computing and mathematical modeling.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine Learning
+- Data Analysis
+- Mathematical Modeling
+- Scientific Computing
+
+## Technologies
+
+Python · NumPy · SciPy · Matplotlib · C++
